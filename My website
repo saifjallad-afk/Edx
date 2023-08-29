@@ -4,7 +4,9 @@
 <head>
     <title>My Website</title>
     <style>
+*{background-color: blanchedalmond;}
 h1{text-align: center; font-family: 'Times New Roman', Times, serif;}
+h2{font-style: italic;}
     </style>
 </head>
 
